@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Example Site</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/</link>
         <description>Recent content in Tags on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/clash-ty.github.io/Hugo-mysite/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://clash-ty.github.io/Hugo-mysite/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/css/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/css/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/html/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/html/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/markdown/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/markdown/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/themes/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/themes/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/privacy/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/privacy/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/shortcodes/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/shortcodes/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/tag-with-whitespaces/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/tag-with-whitespaces/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/text/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/text/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://github.com/clash-ty.github.io/Hugo-mysite/tags/emoji/</link>
+        <link>https://clash-ty.github.io/Hugo-mysite/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/clash-ty.github.io/Hugo-mysite/tags/emoji/</guid>
+        <guid>https://clash-ty.github.io/Hugo-mysite/tags/emoji/</guid>
         <description></description>
         </item>
         
