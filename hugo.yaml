@@ -1,8 +1,8 @@
 baseurl: https://clash-ty.github.io/Hugo-mysite/
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: My new hugo site
+copyright: clash-ty
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,11 +15,11 @@ hasCJKLanguage: false
 languages:
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: ty.site
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: 悲观者总是对的，乐观者积极向上！
 
 services:
     # Change it to your Disqus shortname before using
@@ -30,7 +30,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -44,7 +44,7 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2025
         customText:
 
     dateFormat:
@@ -52,7 +52,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🥳
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
@@ -157,12 +157,7 @@ params:
             - type: archives
               params:
                   limit: 5
-            - type: categories
-              params:
-                  limit: 10
-            - type: tag-cloud
-              params:
-                  limit: 10
+           
         page:
             - type: toc
 
@@ -200,6 +195,12 @@ menu:
     main: []
 
     social:
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/3546640283601396?spm_id_from=333.1007.0.0
+          params:
+              icon: brand-bilibili
+              
         - identifier: github
           name: GitHub
           url: https://github.com/CaiJimmy/hugo-theme-stack
